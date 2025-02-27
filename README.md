@@ -1,2 +1,2 @@
-HEllo
-THis is CICD for WEBSITE Responsive
+Hello
+THis is CICD Pipeline for WEBSITE Responsive
